@@ -1,0 +1,25 @@
+##README
+
+Alex Kochengin (811-274-817)
+Kevin Linnane  (811-190-857)
+
+##INSTRUCTIONS
+
+To compile the Tenacious Turtle's Shell, use the following command:
+
+$ make
+
+To run the Tenacious Turtle's Shell, use the following command:
+
+$ ./1730sh
+
+To remove all compiled files, use the following command:
+
+$ make clean
+
+
+There were occasional errors when Ctrl + D within the 1730sh.  This may cause 
+unpredicted results, so use with caution.
+
+When using >.  Somtimes the output isnt shown within the 1730sh, but when exited
+the contents will be inside of the directed file. 
